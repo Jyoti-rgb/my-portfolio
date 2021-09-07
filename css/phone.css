@@ -1,0 +1,48 @@
+/* body {
+    background-color: blue;
+} */
+
+h1 {
+    font-size: 10vw;
+}
+
+h2 {
+    font-size: 5vw;
+    margin-bottom: 57px;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+    font-size: 1.2rem;
+}
+
+.top-cloud {
+    /* top: 58px;
+    right: 105px; */
+    visibility: hidden;
+}
+
+.bottom-cloud {
+    /* bottom: 270px;
+    left: 130px; */
+    visibility: hidden;
+}
+
+.mountain {
+    width: 100%;
+    height: auto;
+}
+
+.code-img {
+    width: 24%;
+    float: left;
+    margin: 7px;
+}
+
+.btn {
+    font-size: 10px;
+    font-weight: 100px;
+    padding: 20px;
+}
