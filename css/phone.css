@@ -19,15 +19,15 @@ h3 {
 }
 
 .top-cloud {
-    /* top: 58px;
-    right: 105px; */
-    visibility: hidden;
+    top: 58px;
+    right: 105px;
+/*     visibility: hidden; */
 }
 
 .bottom-cloud {
     /* bottom: 270px;
     left: 130px; */
-    visibility: hidden;
+/*     visibility: hidden; */
 }
 
 .mountain {
